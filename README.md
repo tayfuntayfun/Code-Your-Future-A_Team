@@ -15,4 +15,7 @@ test change @1530 for Tania
 
 Tayfun contribution @15.33 to test
 
+Tania branch
 We are now learning how to branch from a Master. 
+
+Serkan's contribution on Tayfun's branch master
